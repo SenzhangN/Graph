@@ -1,1 +1,76 @@
-<mxfile host="www.draw.io" modified="2020-01-30T13:24:38.859Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="lxG7Ka7bNWjgetj1dUD_" version="12.6.2" type="github"><diagram id="Uc6WzdaAGhAkO1jN_Mr-" name="Page-1">3Vrtc6I4GP9r8nF3IIEQPgLi3tzLTGc6N7f9mEJUbtF4GKveX39JCAKSdu0erta2Y5MnTxB+v+c1ClCy3H+p6HrxB89ZCaCT7wGaAAhDBOWrEhxqgQ9JLZhXRV6L3FbwWPzLjNAx0m2Rs01PUXBeimLdF2Z8tWKZ6MloVfFdX23Gy/67rumcDQSPGS2H0r+KXCxqKYFBK/+FFfNF884uDuuVJW2UzZNsFjTnu44IpQAlFeeiHi33CSsVdg0u9b7pK6vHG6vYSpyzYfsnZl/WD46zffrNnYhvzM8fP7nY3Jw4NE/McgmAmfJKLPicr2iZttK44ttVztRlHTlrdX7nfC2FrhT+zYQ4GDbpVnApWohlaVbZvhBfO+MndanPvplN9ubKenJoJitRHb62imr61F1rt+lZuy+PlB3IaVbSzabIauG0KJvb2QhaiaGSFnfUaqQUPK8yYEQbvq0y9hbsnjFlWs2ZeEMRHg1FOhjjSyYfTe6rWElF8dK/EWpMfX7Ua61BDoxBvMc4zF2+0HJr3mpgLX1b2C0KwR7XVD/8TgaEPu8zCWbCS17pvWjmq1+NdMW/sc4K1j9qB1+Jjrz+OXLxwirB9m+zMQSv2YCMY5rI5Hpmvmv93Gucd9H18cC5FOBDvNMAxC6IY5D6gEQgckBKQDxRf1ISTUDoaB2kdQL1Gk7HZWk2g1lmYynHz9jH47CB3D4beEiG68EhGf6luIAWLnwQpoAgPUhAnOpBrIQpBqEHYnwXXGC/zwX0fQsZFs9o9MYnwxnA+DPSVJtyXBx0k4772YHhdxOPnD2wqpAQsMoIz0w1ZyStEbMROjMZ1fngWtkIouvaQK/oaGuQV9j/2ESH1yQaWSIvBiQEUaCSX+QCkqjIGycg9HXkRYCkHzDOnlYgiNiSni3OeheC3lLwKXwxiEM1kJlNIe4rAuJoVMRzysjMijjOCHuejYS4d1Lz2RC31XwXKzPwAPFf6QvVtZ0DyLA7u32MYXBrGAcWqw5U4RZ7OrKkIKqtWo79pqwmHxD6U/M+Qno16Mkr5o21eY+Msc9I7tkwJvAZ4ZGCtufcmnmH9qCdgChpOhXHFsYvwQFzJQuBjYMQB4iOxMFpiLm+nTfda4eEB41+NAXEa2OK4kMWMvdg+DcA+nU6gv91ePm+LgKMV/u75kDj+8W/3Qp+0pGj5dgF4lKYo8Ae2fifLW8WPm00XbImdVyy3reLcjRX/3V3ZaIgkX2Ep05nYtxcXN5sff1ae2BX0m1E3wz6vrbiK3bimEZEy2K+ktNMMqaOAWLlhEVGy8gsLIs815Zpc/q+tY5RIpz0HHh4tEMsPuxdzIdtxdmgFJPlWhSqliMNQRiouu1uCTo9CLUdSwcWhuDFGBrWcOfVF74iLBzG6NtvzP2ba8zh0OLvLNW9/8DM+G97WjZ2xgzPzZjkqinzx+v/tvOdgugjOipqvk1wO45q+wzvjM+N7jaf+eFJ2+BcOZ9BS4mpykECSGx8IXS1dyRtpRh5TaX4XB2LREWeb5yLTECUauVIKRsJvF9e4Uk7iC5Xp8hp+zUZvdb5rhFK/wM=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-30T13:32:42.913Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="YH5C5abbnk8FIhoihhDL" version="12.6.2" type="github">
+  <diagram id="Uc6WzdaAGhAkO1jN_Mr-" name="Page-1">
+    <mxGraphModel dx="932" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="2YxNK9GWlURTmFyG-tGR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.6;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="uU6eGpP00uYK1Dtke5dS-1" target="uU6eGpP00uYK1Dtke5dS-14">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-1" value="类加载子系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="311" y="40" width="142" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" parent="1" source="uU6eGpP00uYK1Dtke5dS-14" target="uU6eGpP00uYK1Dtke5dS-2" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="130" y="140" width="420" height="170" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-2" value="垃圾回收系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="650" y="255" width="140" height="55" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.167;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" parent="1" source="uU6eGpP00uYK1Dtke5dS-3" target="uU6eGpP00uYK1Dtke5dS-14" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" parent="1" source="uU6eGpP00uYK1Dtke5dS-3" target="uU6eGpP00uYK1Dtke5dS-19" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-3" value="执行引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="130" y="380" width="140" height="54" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-4" value="方法区" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="140" y="180" width="120" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-6" value="Java堆" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="270" y="180" width="120" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-7" value="直接内存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="140" y="250" width="120" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-8" value="Java栈" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="400" y="180" width="120" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-9" value="本地方法栈" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="270" y="250" width="120" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-10" value="PC寄存器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="400" y="250" width="120" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uU6eGpP00uYK1Dtke5dS-12" target="uU6eGpP00uYK1Dtke5dS-1" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;class文件&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="45" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-17" value="内存空间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="310" y="140" width="70" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-18" value="本地方法库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="530" y="380" width="140" height="54" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="uU6eGpP00uYK1Dtke5dS-19" target="uU6eGpP00uYK1Dtke5dS-18" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-19" value="本地方法接口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="328" y="380" width="140" height="54" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-21" value="垃圾回收" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="200" width="70" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="uU6eGpP00uYK1Dtke5dS-22" value="下发指令&lt;br&gt;数据交换" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="340" width="70" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
